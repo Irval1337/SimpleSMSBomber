@@ -17,7 +17,7 @@ namespace Simple_bomber
         static void Main(string[] args)
         {
             Console.Title = "SimpleSMSBomber";
-            Console.WriteLine("SimpleSMSBombe by Irval. Special for Datastock.biz\nОфициальный репозиторий GitHub: \nТекущая версия: 1.0.7");
+            Console.WriteLine("SimpleSMSBomber by Irval. Sponsored by Datastock.biz\nОфициальный репозиторий GitHub: https://github.com/Irval1337/SimpleSMSBomber\nТекущая версия: 1.0.7");
 
         start:
             Console.WriteLine("\nВведите номер телефона жертвы: ");
